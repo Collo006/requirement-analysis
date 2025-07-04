@@ -64,4 +64,4 @@ Traceability: Establishing traceability matrices to ensure all requirements are 
 Provide a clear visual representation of system functionalities.
 Help in identifying and organizing system requirements
 Facilitate communication among stakeholders and development team.
- ![alx-booking-uc](Downloads\alx-booking-uc.png)
+![alx-booking-uc](https://github.com/user-attachments/assets/b5f55ee8-e0e7-4b2c-81df-283774a9a995)
