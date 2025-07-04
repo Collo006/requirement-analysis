@@ -66,4 +66,4 @@ Provide a clear visual representation of system functionalities.
 Help in identifying and organizing system requirements.
 Facilitate communication among stakeholders and development team.
 
-![alx-booking-uc drawio](https://github.com/user-attachments/assets/6b7e753e-08af-4bd8-b85e-419328989274)
+alx-booking-uc drawio(https://github.com/user-attachments/assets/6b7e753e-08af-4bd8-b85e-419328989274)
