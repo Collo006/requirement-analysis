@@ -61,9 +61,7 @@ Traceability: Establishing traceability matrices to ensure all requirements are 
 # Use Case Diagrams
  Visual representation of interactions between users and the system.
  Benefits of Use Case Diagrams:
-
 Provide a clear visual representation of system functionalities.
-Help in identifying and organizing system requirements.
+Help in identifying and organizing system requirements
 Facilitate communication among stakeholders and development team.
-
-alx-booking-uc.png 
+![alx-booking-uc drawio](https://github.com/user-attachments/assets/0de6b03c-7234-486c-bebc-fbf7d600f83b)
