@@ -54,5 +54,16 @@ Feasibility Analysis: Assessing the feasibility of requirements in terms of tech
 Modeling: Creating models (e.g., data flow diagrams, entity-relationship diagrams) to visualize and analyze requirements.
 5. Requirement Validation 
 Review and Approval: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
+
 Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+
+# Use Case Diagrams
+ Visual representation of interactions between users and the system.
+ Benefits of Use Case Diagrams:
+
+Provide a clear visual representation of system functionalities.
+Help in identifying and organizing system requirements.
+Facilitate communication among stakeholders and development team.
+
+![alx-booking-uc drawio](https://github.com/user-attachments/assets/6b7e753e-08af-4bd8-b85e-419328989274)
