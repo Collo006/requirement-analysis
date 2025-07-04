@@ -65,3 +65,17 @@ Provide a clear visual representation of system functionalities.
 Help in identifying and organizing system requirements
 Facilitate communication among stakeholders and development team.
 ![alx-booking-uc](https://github.com/user-attachments/assets/b5f55ee8-e0e7-4b2c-81df-283774a9a995)
+
+# Acceptance Criteria
+Benefits of Acceptance Criteria:
+Ensure all parties have a clear understanding of feature requirements.
+Provide a basis for testing and validation.
+Help in maintaining quality and meeting user expectations.
+
+Successful Checkout-System updates guest status to "Checked Out"
+Room status changes to "Available"
+Invoice Generation-Final invoice includes room charges, taxes, extra services, and discounts
+Payment Confirmation-Payment method, amount, and date are logged Invoice marked as "Paid"
+Room Availability Update-Room becomes available for new bookings after checkout
+Checkout Restrictions-Checkout blocked if guest has unresolved charges
+Checkout Time Validation-System flags late checkouts and applies fee if applicable
